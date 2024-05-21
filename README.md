@@ -10,8 +10,9 @@
 
 ### Palestras
 <!-- PALES-REPO-LIST:START -->
-- [EKS em foco: assessement e boas práticas em Kubernetes](https://www.awswomencommunitybrasil.com/trilha-int-avan.html) at AWSome Women Community Summit Brasil 2024.
-- [Assessement e Boas Práticas em Kubernetes](https://pt.slideshare.net/slideshow/assessement-boas-praticas-em-kubernetespdf/267649197) at Tech Hub Conf 2024.
+- [Assessement, um caminho para adoção de boas práticas em Kubernetes](https://pt.slideshare.net/slideshow/assessement-um-caminho-para-adocao-de-boas-praticas-em-kubernetes-pdf/268827027). at DevOpsDays São Paulo.
+- [EKS em foco: assessement e boas práticas em Kubernetes](https://www.awswomencommunitybrasil.com/trilha-int-avan.html) at AWSome Women Community Summit Brasil.
+- [Assessement e Boas Práticas em Kubernetes](https://pt.slideshare.net/slideshow/assessement-boas-praticas-em-kubernetespdf/267649197) at Tech Hub Conf.
 - [K8sGPT - Superpoderes na Administração Kubernetes](https://pt.slideshare.net/slideshow/k8sgpt-superpoderes-na-administrao-kubernetespptx-1387/267402712) at Jack Experts.
 - Diversidade e Inclusão nos e-sports at Programaria Summit.
 <!-- PALES-REPO-LIST::END -->
